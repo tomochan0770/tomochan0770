@@ -2,8 +2,8 @@
 
 ## About me :
 
-* 🏫 I’m currently a 4th year student at Ritsumeikan University in Japan.
-* 🌱 I’m a member of 42tokyo.
+* 🏫 I was a student at Ritsumeikan University.
+* 🌱 I was a member of 42tokyo.
 
 ## My Github status:
 ![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=tomochan0770&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
