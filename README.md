@@ -2,7 +2,7 @@
 
 ## About me :
 
-* 🏫 I was a student at Ritsumeikan University.
+* 🏫 I'm graduate of Ritsumeikan University.
 * 🌱 I was a member of 42tokyo.
 
 ## My Github status:
